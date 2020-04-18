@@ -1,0 +1,35 @@
+#jumbotronMain{
+    background-color:white;
+    height: 80vh;
+    border-radius: 0px;
+    background-color: black;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-bottom: 0;
+
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+
+
+    .group{
+
+        padding: 0 60px;
+
+        h1{
+            color:white;
+            font-weight: 500;
+            font-size: 38px;
+        }
+    
+        p{
+            color:white;
+            font-weight: 500;
+            font-size: 20px;
+        }
+
+    }
+
+  
+}

@@ -1,0 +1,28 @@
+$primary-color:#1F1F1F;
+$secondary-color: white;
+
+
+
+
+
+#navegacion{
+    background-color: $primary-color;
+    height: 10vh;
+
+    a{
+        color: $secondary-color;
+        font-size: 1.3rem;
+    }
+
+    ul{
+        li{
+
+            padding: 0 20px;
+            a{
+                color: $secondary-color;
+                font-size: 1rem;
+            }
+        }
+    }
+    
+}
