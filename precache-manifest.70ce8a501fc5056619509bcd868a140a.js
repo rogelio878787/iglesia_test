@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15cddaf494fdcf3206cb784eb22119c6",
+    "revision": "9c23b20f9249a79db76dc100e7089e40",
     "url": "/iglesia_test/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iglesia_test/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "b8b5684c20a2df261d6e",
+    "revision": "6183ba8d500685d6101a",
     "url": "/iglesia_test/static/css/main.70cc85b7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iglesia_test/static/js/2.8d8985e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8b5684c20a2df261d6e",
-    "url": "/iglesia_test/static/js/main.7ba87bff.chunk.js"
+    "revision": "6183ba8d500685d6101a",
+    "url": "/iglesia_test/static/js/main.a23009ba.chunk.js"
   },
   {
     "revision": "889c9bb40d554c778cf8",

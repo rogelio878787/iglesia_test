@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iglesia_test/static/css/main.70cc85b7.chunk.css",
-    "main.js": "/iglesia_test/static/js/main.7ba87bff.chunk.js",
-    "main.js.map": "/iglesia_test/static/js/main.7ba87bff.chunk.js.map",
+    "main.js": "/iglesia_test/static/js/main.a23009ba.chunk.js",
+    "main.js.map": "/iglesia_test/static/js/main.a23009ba.chunk.js.map",
     "runtime-main.js": "/iglesia_test/static/js/runtime-main.a8432c17.js",
     "runtime-main.js.map": "/iglesia_test/static/js/runtime-main.a8432c17.js.map",
     "static/css/2.69121389.chunk.css": "/iglesia_test/static/css/2.69121389.chunk.css",
     "static/js/2.8d8985e0.chunk.js": "/iglesia_test/static/js/2.8d8985e0.chunk.js",
     "static/js/2.8d8985e0.chunk.js.map": "/iglesia_test/static/js/2.8d8985e0.chunk.js.map",
     "index.html": "/iglesia_test/index.html",
-    "precache-manifest.338763f18d65af3de98b1ebfb0e498cc.js": "/iglesia_test/precache-manifest.338763f18d65af3de98b1ebfb0e498cc.js",
+    "precache-manifest.70ce8a501fc5056619509bcd868a140a.js": "/iglesia_test/precache-manifest.70ce8a501fc5056619509bcd868a140a.js",
     "service-worker.js": "/iglesia_test/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/iglesia_test/static/css/2.69121389.chunk.css.map",
     "static/css/main.70cc85b7.chunk.css.map": "/iglesia_test/static/css/main.70cc85b7.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.8d8985e0.chunk.js",
     "static/css/main.70cc85b7.chunk.css",
-    "static/js/main.7ba87bff.chunk.js"
+    "static/js/main.a23009ba.chunk.js"
   ]
 }
