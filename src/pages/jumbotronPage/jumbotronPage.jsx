@@ -9,7 +9,7 @@ const jumbotronPage = (props) =>{
     return(
      <div className={`jumbotron text-left d-flex flex-column justify-content-center ${props.alineacion}`} 
           id="jumbotronMain"
-          style={{backgroundImage:`url(${props.imageUrl})`}}
+        //   style={{backgroundImage:`url(${props.imageUrl})`}}
           
           >
         <div className="group">
